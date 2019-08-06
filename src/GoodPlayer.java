@@ -17,6 +17,7 @@ public class GoodPlayer extends Player {
     ArrayList<Move> getMoves() {
         for (int i = 0; i < 7; i++) {
             //Move move = new Move()
+            //test
         }
         return null;
 
